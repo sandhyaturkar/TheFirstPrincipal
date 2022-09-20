@@ -107,7 +107,7 @@ label {
 }
 
 .hero {
-	background-image: url(img/c.jpg);
+	background-image: url(../img/c.jpg);
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: center;
@@ -153,7 +153,7 @@ label {
 }
 
 #carouselMultiItemExample {
-	background-image: url(/img/e.jpg);
+	background-image: url(img/e.jpg);
 	
 }
 
