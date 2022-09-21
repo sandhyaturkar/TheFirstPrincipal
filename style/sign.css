@@ -107,7 +107,7 @@ label {
 }
 
 .hero {
-	background-image: url('img/c.jpg');
+	background-image: url('/img/c.jpg');
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: center;
@@ -124,6 +124,10 @@ label {
 .cal {
 	border-radius: 15px;
 	background-color: #201f17;
+}
+.blue-text{
+	text-align: center;
+	font-size: 40px;
 }
 
 .text {
